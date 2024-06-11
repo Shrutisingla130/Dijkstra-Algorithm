@@ -1,15 +1,15 @@
 .node
 {
-    width: 30px;
-    height: 22px;
+    width: 32px;
+    height: 24px;
 
-    border: 1px solid rgb(175, 216, 248);
+    border: 1px solid rgb(25, 224, 42);
     /* Using inline block as we are storing every row in a separate div */
 }
 
 .node-start
 {
-    background-color: rgb(233, 30, 30);
+    background-color: rgb(238, 18, 165);
     background-image: url(images/start.png);
     background-position: center;
     background-size: cover;
@@ -26,8 +26,8 @@
 
 .node-wall
 {
-    border: 1px solid #34495e;
-    background-color: #34495e;
+    border: 1px solid #dc4307;
+    background-color: #1d3956;
 }
 .node-weight
 {
@@ -64,14 +64,14 @@
     {
         transform: scale(1.2);
 
-        background-color: rgba(0, 217, 159, .75);
+        background-color: rgba(148, 0, 217, 0.75);
     }
 
     100%
     {
         transform: scale(1);
 
-        background-color: rgba(0, 190, 218, .75);
+        background-color: rgba(72, 158, 80, 0.75);
     }
 }
 
