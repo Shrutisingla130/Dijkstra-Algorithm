@@ -164,7 +164,7 @@
 {
     body
     {
-        background-color: #34495e;
+        background-color: #325f8b;
     }
     .visualGridContainer .gridBox
     {
@@ -183,7 +183,7 @@
         padding: auto;
 
         color: #fff;
-        background-color: #34495e;
+        background-color: #487fb5;
     }
 
     .ref::before
